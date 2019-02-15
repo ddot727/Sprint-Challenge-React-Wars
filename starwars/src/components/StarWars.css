@@ -1,0 +1,12 @@
+.character{
+    width:45%;
+    margin: 10px auto;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.822);
+    color: yellow;
+}
+
+.char-name{
+    text-shadow: 1px 1px 5px rgb(105, 122, 4);
+}
